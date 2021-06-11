@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.org.bjca.finger.zkyw">
+
+    <application>
+        <activity
+            android:name="cn.org.bjca.finger.FingerActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.Dialog" />
+
+    </application>
+</manifest>
+
